@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.BumiAtlas/thua-dat-tp-ho-chi-minh",
+  "title": "Thửa đất & quy hoạch TP. Hồ Chí Minh",
+  "description": "Thửa đất TP. Hồ Chí Minh, Bình Dương, Vũng Tàu theo tờ, thửa hoặc tọa độ, kèm quy hoạch phân khu.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/BumiAtlas/thua-dat-tp-ho-chi-minh-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://bumiatlas.com/mcp-docs/hochiminh",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://bumiatlas.com/mcp/hochiminh"
+    }
+  ]
+}
